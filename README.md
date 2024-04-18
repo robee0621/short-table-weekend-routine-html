@@ -1,1 +1,1 @@
-# short_table_weekend_routine_html
+# short-table-weekend-routine-html
